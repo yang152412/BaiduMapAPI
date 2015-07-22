@@ -3,7 +3,6 @@ Pod::Spec.new do |s|
   s.name         = "BaiduMapAPI"
   s.version      = "2.8.0"
   s.summary      = "A short description of BaiduMapAPI."
-  s.description  = 'This is BaiduMapAPI for support cocoapods'
 
   s.homepage     = "http://developer.baidu.com/map/index.php?title=iossdk"
 
